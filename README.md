@@ -11,19 +11,19 @@
 
 - [Used Services](#used-services)
 
-  - [1. EC2 Instances](#1-ec2-instances)
+	  - [1. EC2 Instances](#1-ec2-instances)
 
-  - [2. Application Load Balancer (ALB)](#2-application-load-balancer-alb)
+	  - [2. Application Load Balancer (ALB)](#2-application-load-balancer-alb)
 
-  - [3. Auto Scaling Group (ASG)](#3-auto-scaling-group-asg)
+	  - [3. Auto Scaling Group (ASG)](#3-auto-scaling-group-asg)
 
-  - [4. Amazon RDS (Optional)](#4-amazon-rds-optional)
+	  - [4. Amazon RDS (Optional)](#4-amazon-rds-optional)
 
-  - [5. IAM Roles](#5-iam-roles)
+	  - [5. IAM Roles](#5-iam-roles)
 
-  - [6. CloudWatch](#6-cloudwatch)
+	  - [6. CloudWatch](#6-cloudwatch)
 
-  - [7. Simple Notification Service (SNS)](#7-simple-notification-service-sns)
+	  - [7. Simple Notification Service (SNS)](#7-simple-notification-service-sns)
 
 - [Suggested Services](#suggested-services)
 
@@ -49,15 +49,15 @@ This web application is hosted on **Amazon EC2 instances** behind an **Applicati
 
 ### 1. ☁️ AWS Cloud
 
-	Outermost where every thing is grouped under it.
+Outermost where every thing is grouped under it.
 
 ### 2. 🙋🏻‍♂️ AWS Account
 
-	Where we can access and manage our AWS resources.
+Where we can access and manage our AWS resources.
 
 ### 3. 🏳️ AWS Region
 
-	Geographical location where EC2, ALB and RDS are deployed.
+Geographical location where EC2, ALB and RDS are deployed.
 
 ---
 
