@@ -49,15 +49,15 @@ This web application is hosted on **Amazon EC2 instances** behind an **Applicati
 
 ### 1. ☁️ AWS Cloud
 
-	Outermost where every thing is grouped under it
+	Outermost where every thing is grouped under it.
 
 ### 2. 🙋🏻‍♂️ AWS Account
 
-	Where we can access and manage our AWS resources
+	Where we can access and manage our AWS resources.
 
 ### 3. 🏳️ AWS Region
 
-	Geographical location where EC2, ALB and RDS are deployed
+	Geographical location where EC2, ALB and RDS are deployed.
 
 ---
 
@@ -136,7 +136,7 @@ This web application is hosted on **Amazon EC2 instances** behind an **Applicati
 
   
 
-- **Functionality**: Provide secure access to AWS services
+- **Functionality**: Provide secure access to AWS services.
 
   
 
@@ -176,7 +176,7 @@ This web application is hosted on **Amazon EC2 instances** behind an **Applicati
 ### 1. Amazon VPC (Virtual Private Cloud)
 
 **Functionality**: Make non-public resources unaccessible directly from internet 
-(Private subnet & Nat Gateway for RDS)
+(Private subnet & Nat Gateway for RDS).
 
 ### 2. Amazon Route 53
 
