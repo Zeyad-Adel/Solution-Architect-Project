@@ -67,7 +67,7 @@ This web application is hosted on **Amazon EC2 instances** behind an **Applicati
 
   
 
-![Architecture Diagram](./Blank%20diagram%20(5).png.png)
+![Architecture Diagram](./Blank%20diagram%20(7).png)
 
   
 
