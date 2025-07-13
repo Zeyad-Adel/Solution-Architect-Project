@@ -2,12 +2,6 @@
 
 Scalable Web Application AWS Architecture
 
-  
-
-This project demonstrates how to deploy a **scalable and highly available web application** on AWS using EC2 instances, an Application Load Balancer (ALB), and Auto Scaling Groups (ASG). It follows best practices in cloud architecture, security, and cost optimization.
-
-  
-
 ---
 
   
